@@ -1,2 +1,3 @@
-# unit-4-game-2-b
-Homework Assignment 4b
+# Crystal Collector
+
+Read the instructions to play.
