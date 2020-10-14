@@ -1,8 +1,8 @@
-# [Crystal Collector Game](https://cdgillis.github.io/unit-4-game-2-b/)
+# [Crystal Collector Game](https://cdgillis.github.io/crystal-collector/)
 
 ---
 
-Read the instructions on the **[website](https://cdgillis.github.io/unit-4-game-2-b/)** to play.
+Read the instructions on the **[website](https://cdgillis.github.io/crystal-collector/)** to play.
 
 ---
 
